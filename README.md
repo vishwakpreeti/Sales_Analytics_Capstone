@@ -15,7 +15,7 @@ To execute this project, ensure that you have **Microsoft Power BI** installed o
 * DAX Query
   
 ## Dashboard
-![Sales_Insights_page-0001](https://github.com/Praveendinesha/Sales-Insights-Analysis/assets/142248403/f5a42c27-1638-49cb-9ee0-3521b29bc9c1)
+![Sales_Insights_page-0001](https://github.com/vishwakpreeti/Sales_Analytics_Capstone/blob/main/analytics.jpg)
 
 ## Dashboard Insights:
 * Key Performance Indicators (KPIs): Total Profit, Total Sales, Total Quantity, Profit Margin%
